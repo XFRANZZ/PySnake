@@ -1,0 +1,14 @@
+#!/bin/sh
+sudo apt-get update
+sudo apt-get install python3
+clear
+sudo apt install python3-pip
+sudo apt install pip
+sudo pip3 install PythonTurtle
+clear
+sudo apt install python3-tk
+clear
+echo "\nInstalling Successfully!"
+sleep 1
+echo "Usage : python3 snake.py"
+
